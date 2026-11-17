@@ -1,0 +1,4 @@
+frontend-react js, tailwind css
+backend-node js, express js
+storage-Neon postgres, Neon object storage
+ai code reviews-code rabbit
